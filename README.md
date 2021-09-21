@@ -1,6 +1,6 @@
 # Tensor Products in Lorentz- and SU(2)-Group
 
-This _Mathematica_ notebook features overloaded CirclePlus and CircleTimes operators, do obtain irreducible representations of products of the Lorentz- or SU(2) group.
+This _Mathematica_ notebook features overloaded CirclePlus and CircleTimes operators, to obtain irreducible representations of products of the Lorentz- or SU(2) group.
 
 For example you can find the Lorentz and spin decomposition of the Rarita Schwinger field
 
